@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    background-color: darkolivegreen;
+}
+
+h1 {
+    color: greenyellow;
+    text-align: center;
+}
+
+h2 {
+    color: greenyellow;
+}
+
+div {
+
+    margin-top: 10px;
+    color:darkblue;
+    font-size: 20px;
+    font-style: italic;
+    font-family: fantasy;
+   
+}
+
+.image-section {
+    display:block;
+    justify-content: center;
+    background-color: darkturquoise;
+}
+
+.section-style{
+
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color:chartreuse;
+}
+
+img {
+
+    width: 40%;
+}
